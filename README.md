@@ -337,19 +337,6 @@ During this project, I gained practical experience in:
 
 ---
 
-# 🚀 Future Improvements
-
-Possible enhancements for this lab include:
-
-- Deploy **Suricata IDS/IPS** with pfSense.
-- Integrate pfSense logs into **Wazuh SIEM** for centralized monitoring.
-- Configure **pfBlockerNG** for IP reputation and GeoIP filtering.
-- Simulate additional attack scenarios such as TCP SYN Flood and UDP Flood.
-- Implement firewall aliases for simplified rule management.
-- Automate alert generation using SIEM and SOAR platforms.
-- Extend the lab with multiple internal hosts and VLAN segmentation.
-
----
 
 # 📂 Repository Structure
 
@@ -393,12 +380,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# 👨‍💻 Author
 
-**Dhruv Kachchhi**
-
-Final-Year B.Tech Computer Engineering Student
-
-Aspiring SOC Analyst | Blue Team | Network Security | SIEM | Threat Detection
-
-If you found this project helpful, consider giving the repository a ⭐.
